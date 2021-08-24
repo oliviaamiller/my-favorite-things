@@ -1,9 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-color: color here;
-    color: this is for the font;
+    background-color: #EEDBD7;
+    color: #1B1C3D;
+    font-family: 'Kaisei Decol', serif;
+}
+
+h1, h2 {
+    font-family: 'Abril Fatface', cursive;
 }
 
 img {
     width: 100%;
     max-width: 600px;
+    border: 5px solid #CF1A40
+
 }
