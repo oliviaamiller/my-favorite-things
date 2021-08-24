@@ -19,5 +19,12 @@ img {
     width: 100%;
     max-width: 600px;
     border: 5px solid #CF1A40
-
 }
+
+h2:hover {
+    color: #804B40;
+  } 
+
+  a:hover {
+      color: #948932;
+  }
